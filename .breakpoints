@@ -3,27 +3,27 @@
     "main.py": [
       {
         "id": "09c096e5-b931-4f5c-b2ab-470c5679401e",
-        "line": 17,
-        "version": 79,
-        "index": 280
+        "line": 12,
+        "version": 327,
+        "index": 196
       },
       {
         "id": "3063fd19-7c8e-4914-849d-36e1d6a4624f",
-        "line": 18,
-        "version": 79,
-        "index": 302
+        "line": 12,
+        "version": 327,
+        "index": 220
       },
       {
         "id": "e22b4deb-5715-4d03-9891-5ee5569d74ac",
-        "line": 19,
-        "version": 79,
-        "index": 316
+        "line": 12,
+        "version": 327,
+        "index": 220
       },
       {
         "id": "0c424654-cc8a-4ed4-8fa0-d22e17403ae1",
-        "line": 20,
-        "version": 79,
-        "index": 340
+        "line": 12,
+        "version": 327,
+        "index": 220
       }
     ],
     "palindrome.py": [
